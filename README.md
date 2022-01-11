@@ -1,6 +1,10 @@
 # 21Y08M-ARVacuum
 ARVacuum Project at Korea University Internship
 
+## 동영상
+#### ⇩ Click Below Video ⇩
+[![Watch the video](https://img.youtube.com/vi/kpkboRfU22E/0.jpg)](https://youtu.be/kpkboRfU22E)
+
 ## 1. 프로젝트 개요와 구성
 > <img src="img/프로젝트개요.png" width="800px" height="400px"></img>
 > <img src="img/프로젝트구성.png" width="800px" height="400px"></img>
